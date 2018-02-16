@@ -22,7 +22,7 @@
 `🐟`  | *Rendering Spaghetti.* | | `[Diamond]>—<Secrets.h>{INSTANTIATE_BezierPath}` |  |
 |  | **Notes** | **Bad?** |  |
 |  | *Oracles, tables and trees.* |  | `[Business Lab]>—<Formatting.swift>` | |
-| `🔋⏱🏺` | *Wafering with Prof. Gauss and Col. Custer. * | **HT\*1/2**   | `[Layers]>—<System.h|cpp>—:>—[?]` |
+| `🔋⏱🏺` | *Wafering with Prof. Gauss and Col. Custer. * | **HT\*1/2**   | `[Layers]>—<System.h\|cpp>—:>—[?]` |
 
 ...
 
