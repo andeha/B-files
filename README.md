@@ -1,3 +1,4 @@
+### The Preludic Period
 
 |  |  |  |  |
 |--:|:--|:-:|:--|
@@ -12,3 +13,18 @@
 |`😬🏆`| *The Glimmering Parall.* | | `[Layers]>—<NPWithFriends.swift>` | |
 | | *Modern White Hat.* | **HT** |`[CPUTests]>—<Utf8.h\|cpp>{@🐠, Trim}—UnitTests—><UnicodeTests.cpp>—<<5—[Business Lab]—[TurbineKernel]—[Common]—<System.h>{Trim}`|
 `😐⛪️`|*The O(n) Chronograph.*|**HT**|`[CPUTests]—<Chronology.h\|cpp>`| |  
+
+###  Settlementa for Stagnatics
+
+|  |  |  |  |
+|--:|:--|:-:|:--|
+| | *Me, and my portable brain.* | | `[CPUTest]>—<FEFoundation>—<Security.h\|cpp>{read*}` |  |
+`🐟`  | *Rendering Spaghetti.* | | `[Diamond]>—<Secrets.h>{INSTANTIATE_BezierPath}` |  |
+|  | **Notes** | **Bad?** |  |
+|  | *Oracles, tables and trees.* |  | `[Business Lab]>—<Formatting.swift>` | |
+| `🔋⏱🏺` | *Wafering with Prof. Gauss and Col. Custer. * | **HT\*1/2**   | `[Layers]>—<System.h|cpp>—:>—[?]` |
+
+...
+
+### The Coptics
+
