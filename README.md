@@ -10,3 +10,5 @@
 |`🎡`|*A Ferris wheel extension.* | |`[Business Lab]—[TurbineKernel]>—<Measurements.swift>` | **‘Online or greedy?’, in algorithms** |
 | | *Still Padding again?* | **HT** |`[CPUTests]>—<Security.h\|cpp>` | **Galois theory** |
 |`😬🏆`| *The Glimmering Parall.* | | `[Layers]>—<NPWithFriends.swift>` | |
+| | *Modern White Hat.* | **HT** |`[CPUTests]>—<Utf8.h|cpp>{@🐠, Trim}—UnitTests—><UnicodeTests.cpp>—<<5—[Business Lab]—[TurbineKernel]—[Common]—<System.h>{Trim}`|
+`😐⛪️`|*The O(n) Chronograph.*|**HT**|`[CPUTests]—<Chronology.h|cpp>`| |  
