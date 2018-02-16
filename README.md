@@ -27,6 +27,5 @@
 
 ... 
 
-### Miss Fortune and the Crops
 ### The Coptics
 
