@@ -26,6 +26,3 @@
 | `🇨🇮🇮🇹` | *Running Measurements.* |  | `[Business Lab]>—<Measurement.swift>` |
 
 ... 
-
-### The Coptics
-
