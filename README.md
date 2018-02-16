@@ -8,5 +8,5 @@
 `😐💈📏🔬`| *The Aggregates’ tailor* or *Hot couture*. | **HT** |`[Business Lab]—[Turbine]—<Intrinsics.swift>` | | 
 |`🕐💼`| *"Full stop ahead!…or actually in the stern"* | **HT** |`[Business Lab]—<<1—[Layers]>—<Structuralium.swift>{ComputationalGeometry.crossing}`| |
 |`🎡`|*A Ferris wheel extension.* | |`[Business Lab]—[TurbineKernel]>—<Measurements.swift>` | **‘Online or greedy?’, in algorithms** |
-| | *Still Padding again?* | **HT** |`[CPUTests]>—<Security.h|cpp>` | **Galois theory** |
+| | *Still Padding again?* | **HT** |`[CPUTests]>—<Security.h\|cpp>` | **Galois theory** |
 |`😬🏆`| *The Glimmering Parall.* | | `[Layers]>—<NPWithFriends.swift>` | |
