@@ -28,7 +28,7 @@
 ###  The Coptics
 
 |  |  |  |  |  |
-|--:|:--|:-:|:--|
+|--:|:--|:-:|:--|:--|
 | `🍧🍋🍬☝️🔥💧`  | “Is this like your lemons Mr. Storekeeper?” | | `[Sprinkle]—[llvm2pic32]>—<main.cpp>` | Pimpinella Sundae |
 
 
