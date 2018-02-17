@@ -18,11 +18,19 @@
 
 |  |  |  |  |
 |--:|:--|:-:|:--|
-| | *Me, and my portable MBA.* | | `[CPUTest]>—<FEFoundation>—<Security.h\|cpp>{read*}` |  |
+| | *The portable MBA.* | | `[CPUTest]>—<FEFoundation>—<Security.h\|cpp>{read*}` |  |
 `🐟`  | *Rendering Spaghetti.* | | `[Diamond]>—<Secrets.h>{INSTANTIATE_BezierPath}` |  |
 |  | **Notes** | **Bad?** |  |
 |  | *Oracles, tables and trees.* |  | `[Business Lab]>—<Formatting.swift>` | |
 | `🔋⏱🏺` | *Wafering with Prof. Gauss and Col. Custer.* | **H\*/2** ≅ | `[Layers]>—<System.h\|cpp>—:>—[?]` |
 | `🇨🇮🇮🇹` | *Running Measurements.* |  | `[Business Lab]>—<Measurement.swift>` |
 
-... 
+###  The Coptics
+
+|  |  |  |  |  |
+|--:|:--|:-:|:--|
+| `🍧🍋🍬☝️🔥💧`  | “Is this like your lemons Mr. Storekeeper?” | | `[Sprinkle]—[llvm2pic32]>—<main.cpp>` | Pimpinella Sundae |
+
+
+ 
+
