@@ -30,6 +30,8 @@
 |  |  |  |  |  |
 |--:|:--|:-:|:--|:--|
 |`🍧🍋🍬☝️🔥💧`|*“Is this like your lemons Mr. Storekeeper?”*| | `[Sprinkle]—[llvm2pic32]>—<main.cpp>`|**Pimpinella Sundae**|
+|🕶👓👁| |[CPUTests]—<Evaluationboards.h|cpp>|**Map projections**|
+|🛸😐🛰|Charles Lindberg lost letter, actually.| |[Monitor]—<<1—[MCUSeed]|**Home Again**|
 
 
  
