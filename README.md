@@ -36,6 +36,7 @@
 ###  Reap and Sew
 | | | | | |
 |--:|:--|:-:|:--|:--|
+|🐄|*Inside-4*| |`<ComputationalIndex.swift>` ∨ `<TemporalIndexComplex.h\|cpp>`| |
 | |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
 
 
