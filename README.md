@@ -1,6 +1,6 @@
 ### The Preludic Period
 
-|  |  |  |  |
+| | | | |
 |--:|:--|:-:|:--|
 `🛳😐`|*“Back again was actually shorter.”*| |`[Diamond]>—<Beziers.metal>{🛳😐,achimedianOrthogonals}`| |
 `🐚`|*Black isomorph.*| **H\*** |`—<Graphpath.g>`| **Palindromes, LL, LR**|
@@ -16,24 +16,31 @@
 
 ###  Settlementa for Stagnatics
 
-|  |  |  |  |
+| | | | |
 |--:|:--|:-:|:--|
-| |*The portable MBA.*| |`[CPUTest]>—<FEFoundation>—<Security.h\|cpp>{read*}`|  |
-`🐟`|*Rendering Spaghetti.*| |`[Diamond]>—<Secrets.h>{INSTANTIATE_BezierPath}`|  |
-|  |**Notes**|**Bad?**| |
-|  |*Oracles, tables and trees.*|  |`[Business Lab]>—<Formatting.swift>`| |
+| |*The portable MBA.*| |`[CPUTest]>—<FEFoundation>—<Security.h\|cpp>{read*}`| |
+`🐟`|*Rendering Spaghetti.*| |`[Diamond]>—<Secrets.h>{INSTANTIATE_BezierPath}`| |
+| |**Notes**|**Bad?**| |
+| |*Oracles, tables and trees.*|  |`[Business Lab]>—<Formatting.swift>`| |
 |`🔋⏱🏺`|*Wafering with Prof. Gauss and Col. Custer.*|**H\*/2** ≅|`[Layers]>—<System.h\|cpp>—:>—[?]`|
 |`🇨🇮🇮🇹`|*Running Measurements.*|  |`[Business Lab]>—<Measurement.swift>`|
 
 ###  The Coptics
 
-|  |  |  |  |  |
+| | | | | |
 |--:|:--|:-:|:--|:--|
 |`🍧🍋🍬☝️🔥💧`|*“Is this like your lemons Mr. Storekeeper?”*| | `[Sprinkle]—[llvm2pic32]>—<main.cpp>`|**Pimpinella Sundae: $1**|
 |🕶👓👁|*As long as it is in plain black*| |`[CPUTests]—<Evaluationboards.h\|cpp>`|**Map projections and stereoscopic displays**|
 |🛸😐🛰|Charles Lindberg lost letter, actually.| |`[Monitor]—<<1—[MCUSeed]`|**Home Again**|
 
 ###  Reap and Sew
+| | | | | |
+|--:|:--|:-:|:--|:--|
+| |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
+| |*Therapeutic Memory Management.*|**HT**|`[CPUTests]>—<VirtualMemory.h|cpp>` | |
+| |*On the Implications of Time-travels.*| |`—<Timeserie.cxx>`|**Temporal merge**|
+|`😐🛁📆`|*“Commence Download to an Expiring Portfolio.”*| |`[CPUTests]—<FEFoundation>—<Security.h|cpp>—<Security.rentalToken>, <BMI2_test2>, SGX sometimes.`| |
+
 
  
 
