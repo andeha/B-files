@@ -29,10 +29,11 @@
 
 |  |  |  |  |  |
 |--:|:--|:-:|:--|:--|
-|`🍧🍋🍬☝️🔥💧`|*“Is this like your lemons Mr. Storekeeper?”*| | `[Sprinkle]—[llvm2pic32]>—<main.cpp>`|**Pimpinella Sundae**|
+|`🍧🍋🍬☝️🔥💧`|*“Is this like your lemons Mr. Storekeeper?”*| | `[Sprinkle]—[llvm2pic32]>—<main.cpp>`|**Pimpinella Sundae: $1**|
 |🕶👓👁|*As long as it is in plain black*| |`[CPUTests]—<Evaluationboards.h\|cpp>`|**Map projections and stereoscopic displays**|
 |🛸😐🛰|Charles Lindberg lost letter, actually.| |`[Monitor]—<<1—[MCUSeed]`|**Home Again**|
 
+###  Reap and Sew
 
  
 
