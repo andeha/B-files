@@ -37,9 +37,9 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 | |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
-| |*Therapeutic Memory Management.*|**HT**|`[CPUTests]>—<VirtualMemory.h|cpp>` | |
+| |*Therapeutic Memory Management.*|**2\*H\***|`[CPUTests]>—<VirtualMemory.h|cpp>` | |
 | |*On the Implications of Time-travels.*| |`—<Timeserie.cxx>`|**Temporal merge**|
-|`😐🛁📆`|*“Commence Download to an Expiring Portfolio.”*| |`[CPUTests]—<FEFoundation>—<Security.h|cpp>—<Security.rentalToken>, <BMI2_test2>, SGX sometimes.`| |
+|`😐🛁📆`|*“Commence Download to an Expiring Portfolio.”*| |`[CPUTests]—<FEFoundation>—<Security.h\|cpp>—<Security.rentalToken>, <BMI2_test2>, SGX sometimes.`| |
 
 
  
