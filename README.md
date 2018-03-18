@@ -42,7 +42,7 @@
 ### Chiselin' Gianduiotto
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`🍫☕️🐮`|*A Primordial Arrangment*| |`[Monitor]>--<malloc.c>`||
+|`🍫☕️🐮`|*A Primordial Arrangement*| |`[Monitor]>--<malloc.c>`||
 
  
 
