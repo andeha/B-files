@@ -43,7 +43,7 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 |`🍫☕️🐮`|*A Primordial Arrangement.*| |`[Monitor]>--<malloc.c>`| **Two layers**|
-|`💀🎤`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>`|**On anti-avoidant experimentation**|
+|`💀🎤😐🔅`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>`|**On anti-avoidant experimentation**|
 
  
 
