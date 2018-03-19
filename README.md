@@ -42,7 +42,7 @@
 ### Chiselin' Gianduiotto 
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`🍫☕️🐮`|*A Primordial Arrangement.*| |`[Monitor]>--<malloc.c>`| **Two layers**|
+|`🍫☕️🐮`|*A Primordial Arrangement.*| |`[Monitor]>--<malloc.c>`| **In case one layer is nutty.**|
 |`💀🎤😐🔅`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>`|**On anti-avoidant experimentation**|
 
  
