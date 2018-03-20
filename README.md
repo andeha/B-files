@@ -43,7 +43,7 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 |`🍫☕️🐮`|*A Primordial Arrangement.*| |`[Monitor]>--<malloc.c>`| **In case one layer is nutty**|
-|`💀🎤😐🔅`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>`|**On anti-avoidant experimentation**|
+|`💀🎤😐🔅`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>{Pic32MXEraseEntireProgramFlash}`|**On anti-avoidant experimentation**|
 
  
 
