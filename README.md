@@ -38,7 +38,7 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 |`🐑🐮`|*Inside-4* ⋀ *inside-6*.| |`<ComputationalIndex.swift>` ∨ `<TemporalIndexComplex.h\|cpp>`| |
-| |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
+|`💀🎥 😐`|*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
 
 ### Chiselin' Gianduiotto 
 
