@@ -14,7 +14,7 @@
 | |*Modern White Hat.*|**H\***|`[CPUTests]>—<Utf8.h\|cpp>{@🐠, Trim}—UnitTests—><UnicodeTests.cpp>—<<5—[Business Lab]—[TurbineKernel]—[Common]—<System.h>{Trim}`|
 `😐⛪️`|*The O(n) Chronograph.*|**H\***|`[CPUTests]—<Chronology.h\|cpp>`| |  
 
-###  Settlementa for Stagnatics
+### Settlementa for Stagnatics
 
 | | | | |
 |--:|:--|:-:|:--|
@@ -25,7 +25,7 @@
 |`🔋⏱🏺`|*Wafering with Prof. Gauss and Col. Custer.*|**H\*/2** ≅|`[Layers]>—<System.h\|cpp>—:>—[?]`|
 |`🇨🇮🇮🇹`|*Running Measurements.*|  |`[Business Lab]>—<Measurement.swift>`|
 
-###  The Coptics
+### The Coptics
 
 | | | | | |
 |--:|:--|:-:|:--|:--|
@@ -33,16 +33,18 @@
 |`🕶👓👁`|*As long as it is in plain black.*| |`[CPUTests]—<Evaluationboards.h\|cpp>`|**Map projections and stereoscopic displays**|
 |🛸😐🛰|Charles Lindberg lost letter, actually.| |`[Monitor]—<<1—[MCUSeed]`|**Home again**|
 
-###  Reap and Sew
+### Reap and Sew
+
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`🐑🐮`|*Inside-4* ⋀ *inside-6*| |`<ComputationalIndex.swift>` ∨ `<TemporalIndexComplex.h\|cpp>`| |
+|`🐑🐮`|*Inside-4* ⋀ *inside-6*.| |`<ComputationalIndex.swift>` ∨ `<TemporalIndexComplex.h\|cpp>`| |
 | |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
 
 ### Chiselin' Gianduiotto 
+
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`🍫☕️🐮`|*A Primordial Arrangement.*| |`[Monitor]>--<malloc.c>`| **In case one layer is nutty**|
+|`🍫☕️🐮`|*A Primordial Arrangement.*| |`[Monitor]>--<malloc.c>`|**In case one layer is nutty**|
 |`💀🎤😐🔅`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>{EraseEntireProgramFlash}`|**On anti-avoidant experimentation**|
 
  
