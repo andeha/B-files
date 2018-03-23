@@ -19,7 +19,7 @@
 | | | | |
 |--:|:--|:-:|:--|
 | |*The portable MBA.*| |`[CPUTest]>—<FEFoundation>—<Security.h\|cpp>{read*}`| |
-`🐟`|*Rendering Spaghetti.*| |`[Diamond]>—<Secrets.h>{INSTANTIATE_BezierPath}`| |
+`🎥🍝🐟`|*Rendering Spaghetti.*| |`[Diamond]>—<Secrets.h>{INSTANTIATE_BezierPath}`| |
 | |**Notes**|**Bad?**| |
 | |*Oracles, tables and trees.*|  |`[Business Lab]>—<Formatting.swift>`| |
 |`🔋⏱🏺`|*Wafering with Prof. Gauss and Col. Custer.*|**H\*/2** ≅|`[Layers]>—<System.h\|cpp>—:>—[?]`|
@@ -38,7 +38,8 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 |`🐑🐮`|*Inside-4* ⋀ *inside-6*.| |`<ComputationalIndex.swift>` ∨ `<TemporalIndexComplex.h\|cpp>`| |
-|`💀🎥 😐`|*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
+|🥚|*A hens’ point of view.*| |`[Layers]>—<Touchbar.swift>`| |
+| |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
 
 ### Chiselin' Gianduiotto 
 
