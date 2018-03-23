@@ -38,8 +38,8 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 |`🐑🐮`|*Inside-4* ⋀ *inside-6*.| |`<ComputationalIndex.swift>` ∨ `<TemporalIndexComplex.h\|cpp>`| |
-|🥚|*A hens’ point of view.*| |`[Layers]>—<Touchbar.swift>`| |
 | |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
+|🥚|*A hens’ point of view.*| |`[Layers]>—<Touchbar.swift>`| |
 
 ### Chiselin' Gianduiotto 
 
