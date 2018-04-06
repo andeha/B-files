@@ -41,12 +41,17 @@
 | |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
 |🥚|*A hens’ point of view.*| |`[Layers]>—<Touchbar.swift>`| |
 
-### Chiselin' Gianduiotto 
+### Chiselin' Gianduiotto
 
 | | | | | |
 |--:|:--|:-:|:--|:--|
 |`🍫☕️🐮`|*A Primordial Arrangement.*| |`[Monitor]>--<malloc.c>`|**In case one layer is nutty**|
 |`💀🎤😐🔅`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>{EraseEntireProgramFlash}`|**On anti-avoidant experimentation**|
 
- 
+### Bon...bon
+| | | | | |
+|--:|:--|:-:|:--|:--|
+|``|*The Conclusive Mess*| |`[Strings and Tables]>--<Unicodes.cpp>{Utf8TraverseNullterminated}`|**Measuring temporal stability and length**|
+|`😐😐`|*Fransiscan Autoregession*| |`[CPUTests]--[FEFoundation]>--<System.h>{Strider}`|**N'est pas Oveau**|
+
 
