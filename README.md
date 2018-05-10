@@ -49,9 +49,14 @@
 |`💀🎤😐🔅`|*Sanatorium Piedmont.*| |`[Monitor]>--<flash.cpp>{EraseEntireProgramFlash}`|**On anti-avoidant experimentation**|
 
 ### Bon...bon
+
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|``|*The Conclusive Mess*| |`[Strings and Tables]>--<Unicodes.cpp>{Utf8TraverseNullterminated}`|**Measuring temporal stability and length**|
-|`😐😐`|*Fransiscan Autoregession*| |`[CPUTests]--[FEFoundation]>--<System.h>{Strider}`|**N'est pas Oveau**|
+|``|*The Conclusive Mess*| |`[Strings and Tables]>--<Unicodes.cpp>{Utf8TraverseNullterminated}`|**Measuring stability and length**|
+|'👂☜😐˥`|*Attentative Dionysius*| |`[Pinecone]--[Helixstore]>--<Timeserie.hpp>{temporalMerge}`|**On incorrectness**|
+|`😐😐`|*Fransiscan Autoregession*| |`[Pinecone]>--<System.h>{Strider}`|**N'est pas Oveau?**|
 
+### Principae Peang
+
+|`😐✁`|**|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 
