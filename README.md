@@ -52,11 +52,13 @@
 
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|``|*The Conclusive Mess*| |`[Strings and Tables]>--<Unicodes.cpp>{Utf8TraverseNullterminated}`|**Measuring stability and length**|
+||*The Conclusive Mess*| |`[Strings and Tables]>--<Unicodes.cpp>{Utf8TraverseNullterminated}`|**Measuring stability and length**|
 |'👂☜😐˥`|*Attentative Dionysius*| |`[Pinecone]--[Helixstore]>--<Timeserie.hpp>{temporalMerge}`|**On incorrectness**|
-|`😐😐`|*Fransiscan Autoregession*| |`[Pinecone]>--<System.h>{Strider}`|**N'est pas Oveau?**|
+|`😐😐`|*Fransiscan Autoregession*| |`[Pinecone]>--<System.h>{RelationalStrider}`|**N'est pas Oveau?**|
 
 ### Principae Peang
 
+| | | | | |
+|--:|:--|:-:|:--|:--|
 |`😐✁`|**|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 
