@@ -60,5 +60,5 @@
 
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`😐✁`|*Reading notes for miscellaneous Intel manuals.*|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
+|`😐✁`|*Reading notes: Miscellaneous manuals.*|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 
