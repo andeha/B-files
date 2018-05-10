@@ -60,5 +60,5 @@
 
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`😐✁`|*Reading notes for Intel® 64 and IA-32 architectures software developer’s manual.*|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
+|`😐✁`|*Reading notes for miscellaneous Intel manuals.*|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 
