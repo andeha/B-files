@@ -52,13 +52,13 @@
 
 | | | | | |
 |--:|:--|:-:|:--|:--|
-||*The Conclusive Mess*| |`[Strings and Tables]>--<Unicodes.cpp>{Utf8TraverseNullterminated}`|**Measuring stability and length**|
-|'👂☜😐˥`|*Attentative Dionysius*| |`[Pinecone]--[Helixstore]>--<Timeserie.hpp>{temporalMerge}`|**On incorrectness**|
-|`😐😐`|*Fransiscan Autoregession*| |`[Pinecone]>--<System.h>{RelationalStrider}`|**N'est pas Oveau?**|
+||*The Conclusive Mess.*| |`[Strings and Tables]>--<Unicodes.cpp>{Utf8TraverseNullterminated}`|**Measuring stability and length**|
+|'👂☜😐˥`|*Attentative Dionysius.*| |`[Pinecone]--[Helixstore]>--<Timeserie.hpp>{temporalMerge}`|**On incorrectness**|
+|`😐😐`|*Fransiscan Autoregession.*| |`[Pinecone]>--<System.h>{RelationalStrider}`|**N'est pas Oveau?**|
 
 ### Principae Peang
 
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`😐✁`|**|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
+|`😐✁`|*Reading notes for Intel® 64 and IA-32 architectures software developer’s manual.*|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 
