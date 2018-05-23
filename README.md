@@ -39,7 +39,7 @@
 |--:|:--|:-:|:--|:--|
 |`🐑🐮`|*Inside-4* ⋀ *inside-6*.| |`<ComputationalIndex.swift>` ∨ `<TemporalIndexComplex.h\|cpp>`| |
 | |*Averaging 2 together with 3+½D.*| |`[Diamond]>—<Beziers.metal>{harmonicMean}`| |
-|🥚|*A hens’ point of view.*| |`[Layers]>—<Touchbar.swift>`| |
+|🥚|*A hens’ point of view.*| |`[Layers]>—<Touchbar.swift>{pick}`| |
 
 ### Chiselin' Gianduiotto
 
@@ -61,4 +61,6 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 |`😐✁`|*Reading notes: Miscellaneous manuals.*|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
-
+||*Is there a Mr. Kirkbridge?*|`[Pinecone]>--<Pinecone.h>{__is_integrative}`||
+|`🎎`|*Kalamazoo Express*|`[Pinecone]>--<IntegrativesTests.cpp>{Unicode_Sustitution}`||
+|`🔭😐`|*Skyline Kalamazoo*|`[Twinbeam]>--<pic32mx|mz.cpp>{initUART}`--<<1--<Unicode.cpp>||
