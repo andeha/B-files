@@ -63,4 +63,5 @@
 |`😐✁`|*Reading notes: Miscellaneous manuals.*|`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 ||*Is there a Mr. Kirkbridge?*|`[Pinecone]>--<Pinecone.h>{__is_integrative}`||
 |`🎎`|*Kalamazoo Express*|`[Pinecone]>--<IntegrativesTests.cpp>{Unicode_Sustitution}`||
-|`🔭😐`|*Skyline Kalamazoo*|`[Twinbeam]>--<pic32mx\|mz.cpp>{initUART}`--<<1--<Unicode.cpp>||
+|`🔭😐`|*Skyline Kalamazoo*|`[Twinbeam]>--<pic32mx\|mz.cpp>{initUART}--<<1--<Unicode.cpp>`||
+
