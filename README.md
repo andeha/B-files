@@ -62,7 +62,7 @@
 |--:|:--|:-:|:--|:--|
 |`😐✁`|*Reading notes: Miscellaneous manuals.*| |`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 ||*Is there a Mr. Kirkbridge?*| |`[Pinecone]>--<Pinecone.h>{__is_integrative}`||
-|`🎎`|*Kalamazoo Express*| |`[Pinecone]>--<IntegrativesTests.cpp>{Unicode_Sustitution}`||
+|`🎎`|*Kalamazoo Express*| |`[Pinecone]>--<IntegrativesTests.cpp>{Unicode_Substitution}`||
 |`🔭😐`|*Skyline Kalamazoo*| |`[Twinbeam]>--<pic32mx\|mz.cpp>{initUART}--<<1--<Unicode.cpp>`||
 |`🎵`|*Brushless in Sunset*| |`[Twinbeam]--<X.sh>`||
 |`🦄`|*Bistro Animal*| |`[Twinbeam]>--<Examples>--<usb>`||
