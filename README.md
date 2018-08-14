@@ -66,5 +66,5 @@
 |`🔭😐`|*Skyline Kalamazoo*| |`[Twinbeam]>--<pic32mx\|mz.cpp>{initUART}--<<1--<Unicode.cpp>`||
 |`🎵`|*Brushless in Sunset*| |`[Twinbeam]--<X.sh>`||
 |`🦄`|*Bistro Animal*| |`[Twinbeam]>--<Examples>--<usb>`||
-|`⚛️`|*Velocity Electronique*| |`U+0x83E0F`||
+|`⚛️`|*Velocity Electronique*| |`U+83E0F`||
 
