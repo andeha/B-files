@@ -67,4 +67,5 @@
 |`🎵`|*Brushless in Sunset*| |`[Twinbeam]--<X.sh>`||
 |`🦄`|*Bistro Animal*| |`[Twinbeam]>--<Examples>--<usb>`||
 |`⚛️`|*Velocity Electronique*| |`U+83E0F`||
+|`©😀®`|*Die Teufel Sahen* | |`[Twinbeam]>--<Examples>--<ddr>--<<1--<usb>`||
 
