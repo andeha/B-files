@@ -62,10 +62,36 @@
 |--:|:--|:-:|:--|:--|
 |`😐✁`|*Reading notes: Miscellaneous manuals.*| |`[Pinecone]>--<Hypervisor.cpp>{Setup16bitRealMode}`||
 ||*Is there a Mr. Kirkbridge?*| |`[Pinecone]>--<Pinecone.h>{__is_integrative}`||
-|`🎎`|*Kalamazoo Express*| |`[Pinecone]>--<IntegrativesTests.cpp>{Unicode_Substitution}`||
-|`🔭😐`|*Skyline Kalamazoo*| |`[Twinbeam]>--<pic32mx\|mz.cpp>{initUART}--<<1--<Unicode.cpp>`||
-|`🎵`|*Brushless in Sunset*| |`[Twinbeam]--<X.sh>`||
-|`🦄`|*Bistro Animal*| |`[Twinbeam]>--<Examples>--<usb>`||
-|`⚛️`|*Velocity Electronique*| |`U+83E0F`||
-|`©😀®`|*Die Teufel`s Sahen* | |`[Twinbeam]>--<Examples>--<ddr>--<<1--<usb>`||
+|`🎎`|*Kalamazoo Express.*| |`[Pinecone]>--<IntegrativesTests.cpp>{Unicode_Substitution}`||
+|`🔭😐`|*Skyline Kalamazoo.*| |`[Twinbeam]>--<pic32mx\|mz.cpp>{initUART}--<<1--<Unicode.cpp>`||
+|`🎵`|*Brushless in Sunset.*| |`[Twinbeam]--<X.sh>`||
+|`🦄`|*Bistro Animal.*| |`[Twinbeam]>--<Examples>--<usb>`||
+|`⚛️`|*Velocity Electronique.*| |`U+83E0F`||
+|`©😀®`|*Die Teufel`s Sahen.*| |`[Twinbeam]>--<Examples>--<ddr>--<<1--<usb>`|**Measuring 100 amps or more.**|
 
+### Eatables in Package
+|`✉️`|*Morning according to Dolphins'*||||
+|`🌱`|*Following Rosemary*||||
+|`🧠`|*Washing code infinitely*||||
+|`⛺️🌔`|*Express-deliveries from Earth to Moon*|||**On receiving moons if being bad.**|
+|`🎵`|*Jazzin'*||`[Twinbeam]>--<Examples>--<sound>--<synthesis.cpp>`|
+||*The irreversibility of clotting cylinders while boiling.*|||
+||*Folding radio and few.*|||
+||*Goodyear-on-the-go*||`[Twinbeam]>--<Additions>--<Ieee754_64bits.cpp>`|
+|💊|*The Breathmint operator*| |`[Twinbeam]>--<Additions>--<Half.h>{add}`|
+| |*Safe Handling at Transportation*|||
+|📦|*Industry Unboxing and Computer Languages*|||
+||*Vectorial Socialism*|||
+|🗳|*Washing Male Competitiveness*|||
+|⚰︎|*Watt's High-speed Steam in SMB's*|||
+|☯︎|*She's Mute!*||`[Twinbeam]>--<Additions>--<dsp.hpp>`|
+|🥊|*Mathematical Similarities*|||
+||*Palm Spring Between Zero and Half*|
+|👁👁‍🗨🕯🕯🕯|*Goin' gray*|⭐️⭐️⭐️|`[Twinbeam]>--<Additions>--<>{div⁻¹}`|
+||*l'Hospital Bleu*|Carteography, Master-detail||
+||*Hot Pudding in the Kettle*|Semantic/Other gap|
+||*Slashing deliverables*|||
+
+### Le Connesseur
+
+||*Wind in invisible sails*||
