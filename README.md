@@ -70,6 +70,8 @@
 |`©😀®`|*Die Teufel`s Sahen.*| |`[Twinbeam]>--<Examples>--<ddr>--<<1--<usb>`|**Measuring 100 amps or more.**|
 
 ### Eatables in Package
+| | | | | |
+|--:|:--|:-:|:--|:--|
 |`✉️`|*Morning according to Dolphins'*||||
 |`🌱`|*Following Rosemary*||||
 |`🧠`|*Washing code infinitely*||||
@@ -93,5 +95,6 @@
 ||*Slashing deliverables*|||
 
 ### Le Connesseur
-
+| | | | | |
+|--:|:--|:-:|:--|:--|
 ||*Wind in invisible sails*||
