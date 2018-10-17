@@ -72,7 +72,7 @@
 ### Eatables in Package
 | | | | | |
 |--:|:--|:-:|:--|:--|
-|`✉️`|*Morning according to Dolphins'*||'[Twinbeam]>--<Additions>--<Fossilate.cpp>{TuneChronometer}'||
+|`✉️`|*Morning according to Dolphins'*||`[Twinbeam]>--<Additions>--<Fossilate.cpp>{TuneChronometer}`||
 |`🌱`|*Following Rosemary*||||
 |`🧠`|*Washing code infinitely*||||
 |`⛺️🌔`|*Express-deliveries from Earth to Moon*|||**On receiving moons if being bad.**|
