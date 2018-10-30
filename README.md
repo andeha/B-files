@@ -101,7 +101,7 @@
 ||*Göttingen Optics*||
 ||*Correllation-9*|||
 ||*One - not two, neither three*||
-||*Muscle-cycle 35 hp broke(n)*.||
+||*Muscle-cycle 35 hp broke(n)*||
 ||*Crosswalks*|[math.hpp]{atan₂}-->New York-->https://github.com/andeha📷-->|
 ||*The intelligent fuse*||
 ||*Deprecating medical furnitures in Blocks*|||
