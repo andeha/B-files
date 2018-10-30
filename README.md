@@ -88,7 +88,7 @@
 |⚰︎|*Watt's High-speed Steam in SMB's*|||
 |☯︎|*She's Mute!*||`[Twinbeam]>--<Additions>--<dsp.hpp>`|
 |🥊|*Mathematical Similarities*|||
-||*Palm Spring Between Zero and Half*|
+||*Palm Spring Between Zero and Half*||*For always after 🔔*|
 |👁👁‍🗨🕯🕯🕯|*Goin' gray*|⭐️⭐️⭐️|`[Twinbeam]>--<Additions>--<>{div⁻¹}`|
 ||*l'Hospital Bleu*|Carteography, Master-detail||
 ||*Hot Pudding in the Kettle*|Semantic/Other gap|
@@ -98,3 +98,13 @@
 | | | | | |
 |--:|:--|:-:|:--|:--|
 ||*Wind in invisible sails*||
+||*Göttingen Optics*||
+||*Correllation-9*|||
+||*One - not two, neither three*||
+||*Muscle-cycle 35 hp broke(n)*.||
+||*Crosswalks*|[math.hpp]{atan₂}-->New York-->https://github.com/andeha📷-->|
+||*The intelligent fuse*||
+||*Deprecating medical furnitures in Blocks*|||
+|⏱²|*Times squares*||
+||*Detailed Answers*|||
+||*Bio-Azimovities*|||
