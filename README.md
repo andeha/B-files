@@ -108,3 +108,5 @@
 |⏱²|*Times squares*||
 ||*Detailed Answers*|||
 ||*Bio-Azimovities*|||
+||*Galleri Torus*|--<Applications>- ⃫-><Geometry.hpp>||
+
