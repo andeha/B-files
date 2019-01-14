@@ -83,7 +83,6 @@
 |💊|*The Breathmint operator*| |`[Twinbeam]>--<Additions>--<Half.h>{add}`|
 | |*Safe Handling at Transportation*|||
 |📦|*Industry Unboxing and Computer Languages*|||
-||*Vectorial Socialism*|||
 |🗳|*Washing Male Competitiveness*|||
 |⚰︎|*Watt's High-speed Steam in SMB's*|||
 |☯︎|*She's Mute!*||`[Twinbeam]>--<Additions>--<dsp.hpp>`|
@@ -97,16 +96,55 @@
 ### Le Connesseur
 | | | | | |
 |--:|:--|:-:|:--|:--|
-||*Wind in invisible sails*||
-||*Göttingen Optics*||
-||*Correllation-9*|||
-||*One - not two, neither three*||
-||*Muscle-cycle 35 hp broke(n)*||
-||*Crosswalks*|[math.hpp]{atan₂}-->New York-->https://github.com/andeha📷-->|
-||*The intelligent fuse*||
-||*Deprecating medical furnitures in Blocks*|||
-|⏱²|*Times squares*||
-||*Detailed Answers*|||
-||*Bio-Azimovities*|||
-||*Galleri Torus*|--<Applications>- ⃫-><Geometry.hpp>||
+||*Wind in invisible sails*| | | |
+||*Göttingen Optics*| | | |
+||*Correllation-9*| | | |
+||*One - not two, neither three*| | | |
+||*Crosswalks*|[math.hpp]{atan₂}-->New York-->https://github.com/andeha📷-->| | |
+||*The intelligent fuse*| | | |
+||*Deprecating medical furnitures in Blocks*| | | |
+|⏱²|*Times squares*| | | |
+||*Detailed Answers*| | | |
+||*Bio-Azimovities*| | | |
+||*Galleri Torus*|--<Applications>- ⃫-><Geometry.hpp>| | |
+|🐜|*Egg-packing Methods*| |**Stack frames**| | 
 
+### *Actualities* and other Misnormers
+| | | | |
+|--:|:--|:-:|:--|
+|🎡 + ⫶⫶⫶|*Hello `__uint88_t`*| |**Ferris-wheel algorithms**, take  I| |
+|𝑥ₐ ∩ 𝑥ₒ ≠ ∅|*🥥-𝑆𝐼𝑀𝐷, 𝜀-𝑆𝐼𝑀𝐷 and 🐣-𝑆𝐼𝑀𝐷*| | | |
+|🎨|CMYK XXX||*Psychology of color-space as long as it is in green* | |
+|A|Bodenart: Time|<Rhombicuboctahedron>--><Circle>--><Square>|*On the Joys in Monopoly*|**One exercise and one answer.** | |
+|🕶|*Chrome to the Max*|*On Cows, Cropping and Fluorescence*| |
+||*Annex Le Frites*| | |
+| |*Frank-N-Stein Fraktur*| | |
+|⭕️🚧|*Congestion? Straigt-ahead! |[Otorhinolaryngelogy]--<Interpretator>--<Primitives>--<Again>, take II| |
+| |*La Turbienn*: The Cat-door|[>100A]--[Henry's House]|
+
+### That's Brain, not Machine
+| | | | |
+|--:|:--|:-:|:--|
+| |*"And on your left, we have the golden ratio"* | |The Recorder that stops when...*|
+|📽🛸|*Bernsteins Window*| | |
+|👓🐫|*Planetar Pelican*| | |
+| |*Parsing Guernica*| | |
+| |*Two types of Hall-effects to examine*| | | 
+|¬⚰️|*Why?*| [Reinkarnation ⸺ Car]>--<manipulate>--<picks>--<endsIn>| |
+| |*The context enlargement method*| | |
+| |*Afloat on the man*| [ipad Screenshots]--<𝜀> | |
+| |*TODO: Consume Apples*| | |
+| |*Lasagna, not quilt*| | |
+
+### The Essence of Pain-induction Devices
+
+| |*The irreversibility of spatial prolongations: The Rack*| Cogs+hasp, loom| |
+| |*Antwerpen Laxkonserv*| | |
+| |*The Easter Island Project*| | 
+|🌾|*Rye, and oats*| | |
+| |*Obnoxious Rainbows*| | |
+|🦓|*Doped and striped*|[Groups]--[®]>--<10nm>| tiny,small,large,very large + PWR/cell/gnd + logic+filler+| |
+| |*Irreversebility - The concludent in one trajectory*| | |
+| |*Konkluderar fördelaktigt*| | |
+| |*Homme plutard*| | |
+|♫🎵|*Nota sħiħa*| | |
