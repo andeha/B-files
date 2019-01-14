@@ -137,14 +137,14 @@
 | |*Lasagna, not quilt*| | |
 
 ### The Essence of Pain-induction Devices
-
-| |*The irreversibility of spatial prolongations: The Rack*| Cogs+hasp, loom| |
+| | | | |
+|--:|:--|:-:|:--|
+| |*On 'the rack' and irreversibility of spatial prolongations*|Cog+hasp, loom| |
 | |*Antwerpen Laxkonserv*| | |
 | |*The Easter Island Project*| | 
 |🌾|*Rye, and oats*| | |
-| |*Obnoxious Rainbows*| | |
+| |*Obnoxious Nozzling Rainbows*| | |
 |🦓|*Doped and striped*|[Groups]--[®]>--<10nm>| tiny,small,large,very large + PWR/cell/gnd + logic+filler+| |
 | |*Irreversebility - The concludent in one trajectory*| | |
-| |*Konkluderar fördelaktigt*| | |
 | |*Homme plutard*| | |
 |♫🎵|*Nota sħiħa*| | |
