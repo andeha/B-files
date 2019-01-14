@@ -140,12 +140,12 @@
 | | | | |
 |--:|:--|:-:|:--|
 | |*On 'the rack' and irreversibility of spatial prolongations*|Cog+hasp, loom| |
-| |*Antwerpen Laxkonserv*| | |
+| |*Antwerpen Lakskonserv*| | |
 | |*The Easter Island Project*| | 
 |🌾|*Rye, and oats*| | |
 | |*Obnoxious Nozzling Rainbows*| | |
-|🦓🦒|*Doped and striped*|[Groups]--[®]>--<10nm>| tiny,small,large,very large + PWR/cell/GND + logic+filler| |
-| |*Irreversebility - The concludent in one trajectory*| | |
+|🦓🦒|*Doped and striped*|[Groups]--[®]>--<10-2nm>| tiny,small,large,very large + PWR/cell/GND + logic+filler| |
+|🚀|*Exponentially⁴ - Spring damp-joy in trajectory*| | |
 | |*Homme plutard*| | |
 |♫🎵|*Nota sħiħa*| | |
 |¶|*Crow*| | |
