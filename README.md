@@ -144,7 +144,8 @@
 | |*The Easter Island Project*| | 
 |🌾|*Rye, and oats*| | |
 | |*Obnoxious Nozzling Rainbows*| | |
-|🦓|*Doped and striped*|[Groups]--[®]>--<10nm>| tiny,small,large,very large + PWR/cell/gnd + logic+filler+| |
+|🦓🦒|*Doped and striped*|[Groups]--[®]>--<10nm>| tiny,small,large,very large + PWR/cell/GND + logic+filler| |
 | |*Irreversebility - The concludent in one trajectory*| | |
 | |*Homme plutard*| | |
 |♫🎵|*Nota sħiħa*| | |
+|¶|*Crow*| | |
