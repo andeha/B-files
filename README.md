@@ -114,13 +114,13 @@
 |--:|:--|:-:|:--|
 |🎡 + ⫶⫶⫶|*Hello `__uint88_t`*| |**Ferris-wheel algorithms**, take  I| |
 |𝑥ₐ ∩ 𝑥ₒ ≠ ∅|*🥥-𝑆𝐼𝑀𝐷, 𝜀-𝑆𝐼𝑀𝐷 and 🐣-𝑆𝐼𝑀𝐷*| | | |
-|🎨|CMYK XXX||*Psychology of color-space as long as it is in green* | |
+|🎨|CMYK XXX||*Psychology of color-space as long as it is in green*| |
 |A|Bodenart: Time|<Rhombicuboctahedron>--><Circle>--><Square>|*On the Joys in Monopoly*|**One exercise and one answer.** | |
 |🕶|*Chrome to the Max*|*On Cows, Cropping and Fluorescence*| |
 ||*Annex Le Frites*| | |
 | |*Frank-N-Stein Fraktur*| | |
 |⭕️🚧|*Congestion? Straigt-ahead! |[Otorhinolaryngelogy]--<Interpretator>--<Primitives>--<Again>, take II| |
-| |*La Turbienn*: The Cat-door|[>100A]--[Henry's House]|
+| |*La Turbienn*: Its Cat-door|[>100A]--[Henry's House]|
 
 ### That's Brain, not Machine
 | | | | |
@@ -144,8 +144,37 @@
 | |*The Easter Island Project*| | 
 |🌾|*Rye, and oats*| | |
 | |*Obnoxious Nozzling Rainbows*| | |
-|🦓🦒|*Doped and striped*|[Groups]--[®]>--<10-2nm>| tiny,small,large,very large + PWR/cell/GND + logic+filler| |
+|🦓🦒|*Doped and striped*|[Groups]--[®]>--<10-2nm>|Mammal-ocular to dispersive set|
+| |Tiny,small,large,very large + PWR/cell/GND + logic+filler| | |
 |🚀|*Exponentially⁴ - Spring damp-joy in trajectory*| | |
 | |*Homme plutard*| | |
 |♫🎵|*Nota sħiħa*| | |
 |¶|*Crow*| | |
+| |*Cribs Roman*| | |
+| |*The Contra-integrative ⁶⁰Co*| | |
+| |*Augment Disjunct*| | |
+| |*Cremé Sellafield*| | |
+| |*Dawn in Brand-New Celestial*| | |
+| |*Gregory's Academy*|Air on a Peck String| |
+| |*The Parasitic Gate and its Bodily Resistance*| | |
+| |*Photos, People and Blurriness*| | |
+| |*Tree: Dead or Alive*| | |
+| |*Torque and Brushless*| | | 
+|🧭|*Propedeutic Orientation*| | | 
+| |*The Serafimer Compass*| | |
+| |*Bletchley Summers*| |
+| |*Padre Akkbars Dilemma*|A dual-speculative assessment|
+| |*Naginata*| |
+| |*Dubbelmagnet*| | |
+| |*Verificate Wash*| | |
+| |*Drops, close to heart*| | |
+
+### Delighted
+
+| | | | |
+|--:|:--|:-:|:--|
+| |*A Grain of SIMD*| | |
+| |*Euclidean Gardening*| | |
+|😐|*TwinbeamˢʳC*| |*≈8191 Case Studies*|
+|🛩|*Participate Sane*| | |
+|😐|*Mersenne-8*| | |
