@@ -178,3 +178,5 @@
 |😐|*TwinbeamˢʳC*| |*≈8191 Case Studies*|
 |🛩|*Participate Sane*| | |
 |😐|*Mersenne-8*| | |
+|🍭|*Les Caramel Entrees*|**The projective plane**| |
+|🎵🎶♩|*BBarry collects*| | |
