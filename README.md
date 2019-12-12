@@ -91,7 +91,7 @@
 |👁👁‍🗨🕯🕯🕯|*Goin' gray*|⭐️⭐️⭐️|`[Twinbeam]>--<Additions>--<>{div⁻¹}`|
 ||*l'Hospital Bleu*|Carteography, Master-detail||
 ||*Hot Pudding in the Kettle*|Semantic/Other gap|
-||*Slashing deliverables*|||
+| |*Slashing deliverables*| | |
 
 ### Le Connesseur
 | | | | | |
@@ -154,7 +154,7 @@
 | |*The Contra-integrative ⁶⁰Co*| | |
 | |*Augment Disjunct*| | |
 | |*Cremé Sellafield*| | |
-| |*Dawn in Brand-New Celestial*| | |
+| |*Dawn in a brand-new Cereal*| | |
 | |*Gregory's Academy*|Air on a Peck String| |
 | |*The Parasitic Gate and its Bodily Resistance*| | |
 | |*Photos, People and Blurriness*| | |
@@ -180,3 +180,25 @@
 |😐|*Mersenne-8*| | |
 |🍭|*Les Caramel Entrees*|**The projective plane**| |
 |🎵🎶♩|*Barry collects*| | |
+
+### Squares in Bathrings
+
+| | | | |
+|--:|:--|:-:|:--|
+| |*Polyester in the sun*| | |
+| |*Strongly typed Metapost*| | |
+| |*Zen Concentri*| | |
+| |*Old Fox retriver floating by*| Is there Salmon, is there trout? | |
+| |*Airfix Monopolist*| | | 
+| |*Suédoise Anonyme*| | |
+| |*Jacuzzi Recreal*| | |
+| |*Suedoise Diametral*| | |
+| |*The Carnegie-Hermods way*| | |Ringbound with usb-c and 'invincible' answers|
+| |*Plastc radish*| | |
+
+### Plastic Tears-n-Wears
+
+| | | | |
+|--:|:--|:-:|:--|
+|*The Haiti-method*| | |
+
