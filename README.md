@@ -193,8 +193,8 @@
 | |*Suédoise Anonyme*| | |
 | |*Jacuzzi Recreal*| | |
 | |*Suedoise Diametral*| | |
-| |*The Carnegie-Hermods way*| | |Ringbound with usb-c and 'invincible' answers|
-| |*Plastc radish*| | |
+| |*The Hermods-Carnegie way*| | |Ringbound with usb-c and 'invincible' answers|
+| |*Plastic radish*| | |
 
 ### Plastic Tears-n-Wears
 
