@@ -173,7 +173,7 @@
 
 | | | | |
 |--:|:--|:-:|:--|
-| |*A Grain of SIMD*| | |
+| |*A Grain of Simd*| | |
 | |*Euclidean Gardening*| | |
 |😐|*TwinbeamˢʳC*| |*≈8191 Case Studies*|
 |🛩|*Participate Sane*| | |
@@ -200,5 +200,13 @@
 
 | | | | |
 |--:|:--|:-:|:--|
-|*The Haiti-method*| | |
-
+| |*The Haiti-method*| | |
+| |*Gas masks*| | |
+| |*Labour Emanuelle*| | |
+| |*Sheriff Invisible*| | |
+| |*Broad strikes*| |Moderna museet in Stockholm| |
+| |*_-Brummer*| | |
+| |*Occationally Erroneously*| |
+| |*Sledge Lottery*| | 
+| |*The Langely-Girls*| | | 
+| |*Green *Slopes* *| | |
